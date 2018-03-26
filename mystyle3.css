@@ -1,0 +1,11 @@
+.html,body{font-size: 62.5%;}
+
+.box1{width:10%;height:15%;background-image:url(task3_03.png);padding-top:10%;background-size: 100% auto;margin :0 0 15% 0}
+
+.box2{width:30%;height:15%;background-image:url(task3_07.png);padding-top:11.5%;margin :auto;background-size: 100% auto;}
+
+.box3{width:70%;height:40%;;padding-top:1%;margin :20% 15% 15% 15%;color:white;}
+
+.box4{width:20%;height:30%;background-image:url(task3_11.png);padding-top:20.6%;margin :60% 0 0 15%;float:left;background-size: 100% auto;}
+
+.box5{width:17%;height:30%;background-image:url(task3_14.png);padding-top:20.5%;margin :60% 15% 0 0 ;float:right;background-size: 100% auto;}
